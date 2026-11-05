@@ -7,13 +7,13 @@
 <img src="assets/focus-areas.svg" width="100%" alt="Visual Computing · Game Interactive">
 
 <p>
-<a href="#work-experience"><img src="assets/navigation/work-experience.svg" width="99" height="30" alt="Work experience"></a>
-<a href="#projects-visual-computing"><img src="assets/navigation/projects-visual-computing.svg" width="153" height="30" alt="Projects (Visual Computing)"></a>
-<a href="#projects-game-interactive"><img src="assets/navigation/projects-game-interactive.svg" width="150" height="30" alt="Projects (Game Interactive)"></a>
-<a href="#activities"><img src="assets/navigation/activities.svg" width="60" height="30" alt="Activities"></a>
-<a href="#course-work"><img src="assets/navigation/course-work.svg" width="78" height="30" alt="Course work"></a>
-<a href="#technical-stacks"><img src="assets/navigation/technical-stacks.svg" width="98" height="30" alt="Technical Stacks"></a>
-<a href="#others"><img src="assets/navigation/others.svg" width="50" height="30" alt="Others"></a>
+<a href="#work-experience"><img src="assets/navigation/work-experience.svg" width="13.886%" alt="Work experience"></a>
+<a href="#projects-visual-computing"><img src="assets/navigation/projects-visual-computing.svg" width="21.46%" alt="Projects (Visual Computing)"></a>
+<a href="#projects-game-interactive"><img src="assets/navigation/projects-game-interactive.svg" width="21.039%" alt="Projects (Game Interactive)"></a>
+<a href="#activities"><img src="assets/navigation/activities.svg" width="8.416%" alt="Activities"></a>
+<a href="#course-work"><img src="assets/navigation/course-work.svg" width="10.94%" alt="Course work"></a>
+<a href="#technical-stacks"><img src="assets/navigation/technical-stacks.svg" width="13.746%" alt="Technical Stacks"></a>
+<a href="#others"><img src="assets/navigation/others.svg" width="7.013%" alt="Others"></a>
 </p>
 
 ## Work experience
