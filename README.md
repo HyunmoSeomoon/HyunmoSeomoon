@@ -1,32 +1,31 @@
 # 서문현모 | Software Engineer
 
-<table>
-<tr>
-<td width="180" valign="top"><img src="assets/profile.jpg" width="160" alt="서문현모 프로필 사진"></td>
-<td valign="middle">
-<p>010-6669-8912<br>
-<a href="mailto:smhm33321@gmail.com">smhm33321@gmail.com</a></p>
-<p>제 1전공: 아주대학교 디지털미디어학과<br>
-제 2전공: 아주대학교 소프트웨어학과<br>
-학점: 3.83 (백분위 93.3)</p>
-</td>
-</tr>
-</table>
+## Personal Information
 
-C++·OpenCV로 영상처리 알고리즘을 개발하고, OpenGL·HLSL과 Unity로 재질과 게임 플레이 시스템을 구현했습니다. CLO Virtual Fashion R&D 인턴으로 텍스처 처리 파이프라인과 편집 기능을 개발했으며, PyTorch 기반 모델 학습·추론 경험을 갖추고 있습니다.
+<img src="assets/profile-information.png" width="100%" alt="서문현모 프로필 사진. Email: smhm33321@gmail.com / Phone: 010-6669-8912 / Education: 아주대학교 / GPA: 3.83/4.5 (백분위 93.3) / Major: 디지털미디어학과 / Double Major: 소프트웨어학과">
 
-[Work experience](#work-experience) · [Projects (Visual Computing)](#projects-visual-computing) · [Projects (Game Interactive)](#projects-game-interactive) · [Activities](#activities) · [Course work](#course-work) · [Technical Stacks](#technical-stacks) · [Others](#others)
+<img src="assets/focus-areas.svg" width="100%" alt="Visual Computing · Game Interactive">
+
+<p>
+<a href="#work-experience"><img src="assets/navigation/work-experience.svg" width="99" height="30" alt="Work experience"></a>
+<a href="#projects-visual-computing"><img src="assets/navigation/projects-visual-computing.svg" width="153" height="30" alt="Projects (Visual Computing)"></a>
+<a href="#projects-game-interactive"><img src="assets/navigation/projects-game-interactive.svg" width="150" height="30" alt="Projects (Game Interactive)"></a>
+<a href="#activities"><img src="assets/navigation/activities.svg" width="60" height="30" alt="Activities"></a>
+<a href="#course-work"><img src="assets/navigation/course-work.svg" width="78" height="30" alt="Course work"></a>
+<a href="#technical-stacks"><img src="assets/navigation/technical-stacks.svg" width="98" height="30" alt="Technical Stacks"></a>
+<a href="#others"><img src="assets/navigation/others.svg" width="50" height="30" alt="Others"></a>
+</p>
 
 ## Work experience
 
 <table width="100%">
 <tr>
 <td width="100%" valign="top">
-<img src="assets/projects/clo.jpg" width="100%" alt="CLO ZFAB KIT × CLOFAB 타이틀 이미지">
-<h3>CLO Virtual Fashion 인턴십</h3>
+<a href="https://github.com/HyunmoSeomoon/Internship-at-CLO"><img src="assets/projects/clo.jpg" width="100%" alt="CLO ZFAB KIT × CLOFAB 타이틀 이미지"></a>
+<h3><a href="https://github.com/HyunmoSeomoon/Internship-at-CLO">R&amp;D Software Engineer Intern at CLO Virtual Fashion</a></h3>
 <p><code>C++</code> <code>OpenCV</code> <code>Claude Code</code><br>2026.07 - 2026.08 · R&amp;D 소프트웨어 엔지니어 인턴</p>
 <p>타일 경계의 색·명암과 무늬 위상 문제를 나눠 보정 파이프라인을 개선했습니다. 국소 잡음 복원과 텍스처 편집 기능 3종을 개발하고, 비교 자동화와 사용자 부서 피드백을 통해 결과를 확인했습니다.</p>
-<p><strong>116개 샘플 중 84개 개선 판정</strong> · 신규 기능 3종 개발<br><sub>내부 코드와 실제 샘플은 공개하지 않습니다.</sub></p>
+<p><strong>116개 샘플 중 84개 개선 판정</strong> · 신규 기능 3종 개발<br><sub>내부 코드와 실제 샘플은 공개하지 않습니다.</sub><br><a href="https://github.com/HyunmoSeomoon/Internship-at-CLO">프로젝트 저장소 →</a></p>
 </td>
 </tr>
 </table>
