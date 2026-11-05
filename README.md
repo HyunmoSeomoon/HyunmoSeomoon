@@ -21,14 +21,12 @@ C++·OpenCV로 영상처리 알고리즘을 개발하고, OpenGL·HLSL과 Unity�
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-<img src="assets/projects/clo.jpg" width="100%" alt="CLO Auto-Tiling 시연용 가상 샘플: 입력 이미지와 반복 타일 생성 결과">
-</td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
+<img src="assets/projects/clo.jpg" width="100%" alt="CLO ZFAB KIT × CLOFAB 타이틀 이미지">
 <h3>CLO Virtual Fashion 인턴십</h3>
 <p><code>C++</code> <code>OpenCV</code> <code>Claude Code</code><br>2026.07 - 2026.08 · R&amp;D 소프트웨어 엔지니어 인턴</p>
 <p>타일 경계의 색·명암과 무늬 위상 문제를 나눠 보정 파이프라인을 개선했습니다. 국소 잡음 복원과 텍스처 편집 기능 3종을 개발하고, 비교 자동화와 사용자 부서 피드백을 통해 결과를 확인했습니다.</p>
-<p><strong>116개 샘플 중 84개 개선 판정</strong> · 신규 기능 3종 개발<br><sub>이미지는 시연용 가상 샘플입니다. 내부 코드와 실제 샘플은 공개하지 않습니다.</sub></p>
+<p><strong>116개 샘플 중 84개 개선 판정</strong> · 신규 기능 3종 개발<br><sub>내부 코드와 실제 샘플은 공개하지 않습니다.</sub></p>
 </td>
 </tr>
 </table>
