@@ -15,21 +15,28 @@
 
 C++·OpenCV로 영상처리 알고리즘을 개발하고, OpenGL·HLSL과 Unity로 재질과 게임 플레이 시스템을 구현했습니다. CLO Virtual Fashion R&D 인턴으로 텍스처 처리 파이프라인과 편집 기능을 개발했으며, PyTorch 기반 모델 학습·추론 경험을 갖추고 있습니다.
 
-[Featured Projects](#featured-projects) · [Activities](#activities) · [Course work](#course-work) · [Technical Stacks](#technical-stacks) · [Others](#others)
+[Work experience](#work-experience) · [Projects (Visual Computing)](#projects-visual-computing) · [Projects (Game Interactive)](#projects-game-interactive) · [Activities](#activities) · [Course work](#course-work) · [Technical Stacks](#technical-stacks) · [Others](#others)
 
-## Featured Projects
+## Work experience
 
-### Visual Computing
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <img src="assets/projects/clo.jpg" width="100%" alt="CLO Auto-Tiling 시연용 가상 샘플: 입력 이미지와 반복 타일 생성 결과">
-<h3>CLOFAB 텍스처 처리 개선</h3>
+</td>
+<td width="50%" valign="top">
+<h3>CLO Virtual Fashion 인턴십</h3>
 <p><code>C++</code> <code>OpenCV</code> <code>Claude Code</code><br>2026.07 - 2026.08 · R&amp;D 소프트웨어 엔지니어 인턴</p>
 <p>타일 경계의 색·명암과 무늬 위상 문제를 나눠 보정 파이프라인을 개선했습니다. 국소 잡음 복원과 텍스처 편집 기능 3종을 개발하고, 비교 자동화와 사용자 부서 피드백을 통해 결과를 확인했습니다.</p>
 <p><strong>116개 샘플 중 84개 개선 판정</strong> · 신규 기능 3종 개발<br><sub>이미지는 시연용 가상 샘플입니다. 내부 코드와 실제 샘플은 공개하지 않습니다.</sub></p>
 </td>
+</tr>
+</table>
+
+## Projects (Visual Computing)
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Ramin0815/Korea_Traditional_Material_Shader"><img src="assets/projects/materials.jpg" width="100%" alt="자개 셰이더의 간섭색 구현 결과"></a>
 <h3><a href="https://github.com/Ramin0815/Korea_Traditional_Material_Shader">한국 전통 소재의 재질 셰이더</a></h3>
@@ -37,10 +44,8 @@ C++·OpenCV로 영상처리 알고리즘을 개발하고, OpenGL·HLSL과 Unity�
 <p>자개 간섭색 계산을 17개 파장으로 확장하고, 갓의 곡면에 맞는 엮임·테두리 표현을 구현했습니다. C++·OpenGL·Dear ImGui 기반 디버깅 렌더러를 제작해 재질 파라미터를 조정했습니다.</p>
 <p><strong>2025 교내 미디어데이 우수작 선정</strong><br><a href="https://github.com/Ramin0815/Korea_Traditional_Material_Shader">프로젝트 저장소 →</a></p>
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<a href="https://github.com/HyunmoSeomoon/Contour-Rendering"><img src="assets/projects/contour.jpg" width="460" alt="Contour Rendering의 원본 3D 모델과 외곽선 렌더링 결과"></a>
+<td width="50%" valign="top">
+<a href="https://github.com/HyunmoSeomoon/Contour-Rendering"><img src="assets/projects/contour.jpg" width="100%" alt="Contour Rendering의 외곽선 렌더링 결과"></a>
 <h3><a href="https://github.com/HyunmoSeomoon/Contour-Rendering">Contour Rendering</a></h3>
 <p><code>C++</code> <code>OpenGL</code> <code>GLSL</code> <code>Geometry Shader</code><br>개인 프로젝트 · 렌더링 파이프라인·셰이더 구현</p>
 <p>GPU 프로그래밍 과제를 확장해 화면상 외곽선 두께를 일정하게 표현했습니다. 후처리 quad의 좌표 변환 오류를 수정하고, depth pre-pass와 깊이 비교로 가려진 뒷면 외곽선을 제거했습니다.</p>
@@ -49,16 +54,23 @@ C++·OpenCV로 영상처리 알고리즘을 개발하고, OpenGL·HLSL과 Unity�
 </tr>
 </table>
 
-### Game Interactive
+## Projects (Game Interactive)
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
-<a href="https://github.com/HyunmoSeomoon/Project-Paran"><img src="assets/projects/ikenie.jpg" width="460" alt="IKENIE 타이틀 화면"></a>
+<td width="50%" valign="top">
+<a href="https://github.com/HyunmoSeomoon/Project-Paran"><img src="assets/projects/ikenie.jpg" width="100%" alt="IKENIE 타이틀 화면"></a>
 <h3><a href="https://github.com/HyunmoSeomoon/Project-Paran">IKENIE</a></h3>
 <p><code>Unity 6</code> <code>C#</code> <code>Cinemachine</code> <code>NavMeshAgent</code><br>2025.09 - 2025.12 · 6인 팀 · 팀장 / 클라이언트 프로그래머</p>
 <p>3D TPS 잠입 액션 게임에서 플레이어·카메라, 시야·청각 기반 적 FSM, 분기 컷씬 전환을 구현했습니다. 행동 우선순위와 공동 수색 구역 할당을 설계하고, 팀 작업과 피드백 반영을 조율했습니다.</p>
 <p><strong>2025 교내 미디어데이 우수작 선정 · GGC 전시</strong><br><a href="https://github.com/HyunmoSeomoon/Project-Paran">프로젝트 저장소 →</a> · <a href="https://www.youtube.com/watch?v=htIDy72hus0">소개 영상 ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/HyunmoSeomoon/Only-the-Light"><img src="assets/projects/only-the-light.jpg" width="100%" alt="Only the Light의 타이틀 화면 배경"></a>
+<h3><a href="https://github.com/HyunmoSeomoon/Only-the-Light">Only the Light</a></h3>
+<p><code>Unity 6</code> <code>C#</code></p>
+<p>프로젝트 상세 소개는 추후 추가할 예정입니다.</p>
+<p><a href="https://github.com/HyunmoSeomoon/Only-the-Light">프로젝트 저장소 →</a></p>
 </td>
 </tr>
 </table>
@@ -103,6 +115,5 @@ C++·OpenCV로 영상처리 알고리즘을 개발하고, OpenGL·HLSL과 Unity�
 | --- | --- | --- |
 | **기계학습 모델 학습·비교** | Python · PyTorch · scikit-learn | 이미지 분류 모델의 학습·추론 구성, 파라미터 수 제약에 따른 모델 후보 선택, 분류·회귀 실험 |
 | **아주고침** | Unreal Engine 5 Blueprint · Android | 이미지 마커 기반 AR 모델 생성, 다중 이미지 인식, Android 패키징·디버깅 |
-| **Only the Light** | Unity 6 · C# | 3D 공포·액션 게임의 팀장·기획·개발, 적 감지 로직·플레이어 이동 |
 | **TML Shooter** | Unity 6 · C# | Unity 스터디 과제용 FPS 게임과 사격·적 행동 구현 |
 | **말리지마** | Unity 6 · Git | 소학회 홍보용 가상 경마 콘텐츠의 기획·중심 로직 설계 |
