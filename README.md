@@ -20,99 +20,137 @@
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td colspan="2">
 <a href="https://github.com/HyunmoSeomoon/Internship-at-CLO"><img src="assets/projects/clo.jpg" width="100%" alt="CLO ZFAB KIT × CLOFAB 타이틀 이미지"></a>
 <h3><a href="https://github.com/HyunmoSeomoon/Internship-at-CLO">zFab Scanning Image Post-processing</a></h3>
 <p><code>C++</code> <code>OpenCV</code> <code>Claude Code</code></p>
-<table width="100%">
-<tr><th align="left" scope="row">Type</th><td>Industry <strong>(CLO Virtual Fashion)</strong></td></tr>
-<tr><th align="left" scope="row">Member</th><td>6</td></tr>
-<tr><th align="left" scope="row">Position</th><td>Software Engineer</td></tr>
-<tr><th align="left" scope="row">Core Work</th><td>CLOFAB 원단 텍스처 처리 개선</td></tr>
-</table>
 </td>
 </tr>
+<tr><th width="24%" align="left" scope="row">Type</th><td>Industry <strong>(CLO Virtual Fashion)</strong></td></tr>
+<tr><th align="left" scope="row">Member</th><td>6</td></tr>
+<tr><th align="left" scope="row">Position</th><td>Software Engineer</td></tr>
+<tr><th align="left" scope="row">Core Work</th><td>CLOFAB Auto-Tiling 기능 개선,<br>클라이언트 요청 기능 3종 추가 구현</td></tr>
 </table>
 
 ## Projects (Visual Computing)
 
-<table width="100%">
+<!-- Two 410px cards leave room for a classic scrollbar. The narrow picture source lets a single card fill the row. -->
+
+<div>
+<table align="left">
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Ramin0815/Korea_Traditional_Material_Shader"><img src="assets/projects/materials.jpg" width="100%" alt="자개 셰이더의 간섭색 구현 결과"></a>
-<h3><a href="https://github.com/Ramin0815/Korea_Traditional_Material_Shader">한국 전통 소재 머티리얼 제작</a></h3>
+<td colspan="2">
+<a href="https://github.com/Ramin0815/Korea_Traditional_Material_Shader"><picture>
+<source media="(width &lt; 1280px)" srcset="assets/projects/materials.jpg 960w">
+<source srcset="assets/projects/materials.jpg 2.513089006x">
+<img src="assets/projects/materials.jpg" alt="자개 셰이더의 간섭색 구현 결과">
+</picture></a>
+<p><strong><a href="https://github.com/Ramin0815/Korea_Traditional_Material_Shader">한국 전통 소재 머티리얼 제작</a></strong></p>
 <p><code>Unity 6 URP</code> <code>HLSL</code> <code>C++</code> <code>OpenGL</code></p>
-<table width="100%">
-<tr><th align="left" scope="row">Type</th><td>Personal</td></tr>
-<tr><th align="left" scope="row">Member</th><td>2</td></tr>
-<tr><th align="left" scope="row">Position</th><td>Graphics Engineer</td></tr>
-<tr><th align="left" scope="row">Core Work</th><td>갓·자개 재질 셰이더 및 디버깅 렌더러 구현</td></tr>
-</table>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/HyunmoSeomoon/Contour-Rendering"><img src="assets/projects/contour.jpg" width="100%" alt="Contour Rendering의 외곽선 렌더링 결과"></a>
-<h3><a href="https://github.com/HyunmoSeomoon/Contour-Rendering">Contour Rendering</a></h3>
-<p><code>C++</code> <code>OpenGL</code> <code>GLSL</code></p>
-<table width="100%">
-<tr><th align="left" scope="row">Type</th><td>Personal</td></tr>
-<tr><th align="left" scope="row">Member</th><td>1</td></tr>
-<tr><th align="left" scope="row">Position</th><td>Graphics Engineer</td></tr>
-<tr><th align="left" scope="row">Core Work</th><td>화면상 두께가 일정한 외곽선 렌더링 구현</td></tr>
-</table>
 </td>
 </tr>
+<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Personal</td></tr>
+<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">2</td></tr>
+<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Graphics Engineer</td></tr>
+<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">갓·자개 셰이더 및 디버깅 렌더러 구현</td></tr>
 </table>
+<table align="right">
+<tr>
+<td colspan="2">
+<a href="https://github.com/HyunmoSeomoon/Contour-Rendering"><picture>
+<source media="(width &lt; 1280px)" srcset="assets/projects/contour.jpg 960w">
+<source srcset="assets/projects/contour.jpg 2.513089006x">
+<img src="assets/projects/contour.jpg" alt="Contour Rendering의 외곽선 렌더링 결과">
+</picture></a>
+<p><strong><a href="https://github.com/HyunmoSeomoon/Contour-Rendering">Contour Rendering</a></strong></p>
+<p><code>C++</code> <code>OpenGL</code> <code>GLSL</code></p>
+</td>
+</tr>
+<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Personal</td></tr>
+<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">1</td></tr>
+<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Graphics Engineer</td></tr>
+<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">일정한 두께의 외곽선 렌더링</td></tr>
+</table>
+<br clear="all">
+</div>
 
 ## Projects (Game Interactive)
 
-<table width="100%">
+<div>
+<table align="left">
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/HyunmoSeomoon/Project-Paran"><img src="assets/projects/ikenie.jpg" width="100%" alt="IKENIE 타이틀 화면"></a>
-<h3><a href="https://github.com/HyunmoSeomoon/Project-Paran">IKENIE</a></h3>
+<td colspan="2">
+<a href="https://github.com/HyunmoSeomoon/Project-Paran"><picture>
+<source media="(width &lt; 1280px)" srcset="assets/projects/ikenie.jpg 960w">
+<source srcset="assets/projects/ikenie.jpg 2.513089006x">
+<img src="assets/projects/ikenie.jpg" alt="IKENIE 타이틀 화면">
+</picture></a>
+<p><strong><a href="https://github.com/HyunmoSeomoon/Project-Paran">IKENIE</a></strong></p>
 <p><code>Unity 6</code> <code>C#</code> <code>Cinemachine</code> <code>NavMeshAgent</code></p>
-<table width="100%">
-<tr><th align="left" scope="row">Type</th><td>Personal</td></tr>
-<tr><th align="left" scope="row">Member</th><td>6</td></tr>
-<tr><th align="left" scope="row">Position</th><td>Team Lead / Client Programmer</td></tr>
-<tr><th align="left" scope="row">Core Work</th><td>잠입 액션 게임의 플레이어·카메라, 적 FSM, 분기 컷씬 구현</td></tr>
-</table>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/HyunmoSeomoon/Only-the-Light"><img src="assets/projects/only-the-light.jpg" width="100%" alt="Only the Light의 타이틀 화면 배경"></a>
-<h3><a href="https://github.com/HyunmoSeomoon/Only-the-Light">Only the Light</a></h3>
-<p><code>Unity 6</code> <code>C#</code></p>
-<table width="100%">
-<tr><th align="left" scope="row">Type</th><td>Personal</td></tr>
-<tr><th align="left" scope="row">Member</th><td>4</td></tr>
-<tr><th align="left" scope="row">Position</th><td>Team Lead / Gameplay Programmer</td></tr>
-<tr><th align="left" scope="row">Core Work</th><td>공포 액션 게임의 손전등 시스템 설계 및 적 감지·플레이어 이동 구현</td></tr>
-</table>
 </td>
 </tr>
+<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Personal</td></tr>
+<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">6</td></tr>
+<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Team Lead / Client Programmer</td></tr>
+<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">플레이어·카메라, 적 FSM<br>및 컷씬 분기 구현</td></tr>
+</table>
+<table align="right">
 <tr>
-<td width="50%" valign="top">
-<h3>암행어스</h3>
-<p><code>Roblox Studio</code></p>
-<table width="100%">
-<tr><th align="left" scope="row">Type</th><td>Coursework</td></tr>
-<tr><th align="left" scope="row">Member</th><td>2</td></tr>
-<tr><th align="left" scope="row">Position</th><td>Team Lead / Game Designer / Developer</td></tr>
-<tr><th align="left" scope="row">Core Work</th><td>Roblox 기반 멀티플레이어 추리 게임 기획 및 개발</td></tr>
-</table>
-</td>
-<td width="50%" valign="top">
-<h3>Pest Runner</h3>
-<p><code>Unity 6</code> <code>AR</code></p>
-<table width="100%">
-<tr><th align="left" scope="row">Type</th><td>Coursework</td></tr>
-<tr><th align="left" scope="row">Member</th><td>2</td></tr>
-<tr><th align="left" scope="row">Position</th><td>Team Lead / Game Designer / Developer</td></tr>
-<tr><th align="left" scope="row">Core Work</th><td>AR 러닝 게임의 벌레 생성·추적 및 메달 지급·저장 구현</td></tr>
-</table>
+<td colspan="2">
+<a href="https://github.com/HyunmoSeomoon/Only-the-Light"><picture>
+<source media="(width &lt; 1280px)" srcset="assets/projects/only-the-light.jpg 960w">
+<source srcset="assets/projects/only-the-light.jpg 2.513089006x">
+<img src="assets/projects/only-the-light.jpg" alt="Only the Light의 타이틀 화면 배경">
+</picture></a>
+<p><strong><a href="https://github.com/HyunmoSeomoon/Only-the-Light">Only the Light</a></strong></p>
+<p><code>Unity 6</code> <code>C#</code></p>
 </td>
 </tr>
+<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Personal</td></tr>
+<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">4</td></tr>
+<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Team Lead / Gameplay Programmer</td></tr>
+<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">손전등 설계, 적 감지와<br>플레이어 이동 구현</td></tr>
 </table>
+<br clear="all">
+</div>
+
+<div>
+<table align="left">
+<tr>
+<td colspan="2">
+<picture>
+<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
+<source srcset="assets/project-grid-rule.svg 1x">
+<img src="assets/project-grid-rule.svg" alt="">
+</picture>
+<p><strong>암행어스</strong></p>
+<p><code>Roblox Studio</code></p>
+</td>
+</tr>
+<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Coursework</td></tr>
+<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">2</td></tr>
+<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Team Lead /<br>Game Designer / Developer</td></tr>
+<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">멀티플레이어 추리 게임 제작</td></tr>
+</table>
+<table align="right">
+<tr>
+<td colspan="2">
+<picture>
+<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
+<source srcset="assets/project-grid-rule.svg 1x">
+<img src="assets/project-grid-rule.svg" alt="">
+</picture>
+<p><strong>Pest Runner</strong></p>
+<p><code>Unity 6</code> <code>AR</code></p>
+</td>
+</tr>
+<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Coursework</td></tr>
+<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">2</td></tr>
+<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Team Lead /<br>Game Designer / Developer</td></tr>
+<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">AR 벌레 생성·추적 및<br>메달 보상·저장</td></tr>
+</table>
+<br clear="all">
+</div>
 
 ## Activities
 
@@ -150,49 +188,78 @@
 
 ## Others
 
-<table width="100%">
+<div>
+<table align="left">
 <tr>
-<td width="50%" valign="top">
-<h3>CNN Image Classification</h3>
+<td colspan="2">
+<picture>
+<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
+<source srcset="assets/project-grid-rule.svg 1x">
+<img src="assets/project-grid-rule.svg" alt="">
+</picture>
+<p><strong>CNN Image Classification</strong></p>
 <p><code>Python</code> <code>PyTorch</code></p>
-<table width="100%">
-<tr><th align="left" scope="row">Type</th><td>Personal</td></tr>
-<tr><th align="left" scope="row">Member</th><td>1</td></tr>
-<tr><th align="left" scope="row">Position</th><td>ML Developer</td></tr>
-<tr><th align="left" scope="row">Core Work</th><td>Tiny ImageNet 분류용 경량 CNN 학습 및 앙상블 추론</td></tr>
-</table>
-</td>
-<td width="50%" valign="top">
-<h3>아주고침</h3>
-<p><code>Unreal Engine 5</code> <code>Blueprint</code> <code>Android</code></p>
-<table width="100%">
-<tr><th align="left" scope="row">Type</th><td>Personal</td></tr>
-<tr><th align="left" scope="row">Member</th><td>2</td></tr>
-<tr><th align="left" scope="row">Position</th><td>Team Lead / AR Developer</td></tr>
-<tr><th align="left" scope="row">Core Work</th><td>이미지 마커 기반 3D AR 렌더링 및 Android 패키징</td></tr>
-</table>
 </td>
 </tr>
+<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Personal</td></tr>
+<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">1</td></tr>
+<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">ML Developer</td></tr>
+<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">경량 CNN 학습 및 앙상블 추론</td></tr>
+</table>
+<table align="right">
 <tr>
-<td width="50%" valign="top">
-<h3>TML Shooter</h3>
-<p><code>Unity 6</code> <code>C#</code></p>
-<table width="100%">
-<tr><th align="left" scope="row">Type</th><td>Personal</td></tr>
-<tr><th align="left" scope="row">Member</th><td>1</td></tr>
-<tr><th align="left" scope="row">Position</th><td>Gameplay Programmer</td></tr>
-<tr><th align="left" scope="row">Core Work</th><td>Unity 스터디용 FPS의 사격 및 적 행동 구현</td></tr>
-</table>
-</td>
-<td width="50%" valign="top">
-<h3>말리지마</h3>
-<p><code>Unity 6</code> <code>Git</code></p>
-<table width="100%">
-<tr><th align="left" scope="row">Type</th><td>Club</td></tr>
-<tr><th align="left" scope="row">Member</th><td>2</td></tr>
-<tr><th align="left" scope="row">Position</th><td>Game Designer</td></tr>
-<tr><th align="left" scope="row">Core Work</th><td>소학회 홍보용 가상 경마 콘텐츠 기획 및 시뮬레이션 로직 설계</td></tr>
-</table>
+<td colspan="2">
+<picture>
+<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
+<source srcset="assets/project-grid-rule.svg 1x">
+<img src="assets/project-grid-rule.svg" alt="">
+</picture>
+<p><strong>아주고침</strong></p>
+<p><code>Unreal Engine 5</code> <code>Blueprint</code> <code>Android</code></p>
 </td>
 </tr>
+<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Personal</td></tr>
+<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">2</td></tr>
+<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Team Lead / AR Developer</td></tr>
+<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">이미지 마커 기반 AR 렌더링</td></tr>
 </table>
+<br clear="all">
+</div>
+
+<div>
+<table align="left">
+<tr>
+<td colspan="2">
+<picture>
+<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
+<source srcset="assets/project-grid-rule.svg 1x">
+<img src="assets/project-grid-rule.svg" alt="">
+</picture>
+<p><strong>TML Shooter</strong></p>
+<p><code>Unity 6</code> <code>C#</code></p>
+</td>
+</tr>
+<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Personal</td></tr>
+<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">1</td></tr>
+<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Gameplay Programmer</td></tr>
+<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">FPS 사격·적 행동 구현</td></tr>
+</table>
+<table align="right">
+<tr>
+<td colspan="2">
+<picture>
+<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
+<source srcset="assets/project-grid-rule.svg 1x">
+<img src="assets/project-grid-rule.svg" alt="">
+</picture>
+<p><strong>말리지마</strong></p>
+<p><code>Unity 6</code> <code>Git</code></p>
+</td>
+</tr>
+<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Club</td></tr>
+<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">2</td></tr>
+<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Game Designer</td></tr>
+<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">가상 경마 기획· 시뮬레이션 설계</td></tr>
+</table>
+<br clear="all">
+</div>
