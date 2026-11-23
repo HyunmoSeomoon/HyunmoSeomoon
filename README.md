@@ -136,12 +136,70 @@
 
 ## Other Activities
 
-- **암행어스** · 2인 교과 프로젝트 팀장 · Roblox Studio 기반 멀티플레이어 추리 게임 기획 및 개발
-- **Pest Runner** · 2인 교과 프로젝트 팀장 · Unity 6 기반 AR 러닝 게임의 벌레 생성·추적 및 메달 지급·저장 구현
-- **CNN Image Classification** · 경량 CNN 앙상블 학습·추론으로 분류 정확도 **48.34% → 57.80%**
-- **아주고침** · Unreal Engine 5 기반 이미지 마커 인식, 다중 이미지 AR 렌더링 및 Android 패키징
-- **Python 데이터 분석 교육 튜터** · 2024.05 · 고등학생 대상 Pandas·Matplotlib 강의 및 자료 제작·공유
-- **U-CHANGE FAIR 전공 멘토** · 2025.04 · 디지털미디어학과 교육과정 소개 및 저학년 전공·진로 상담
+<table>
+<tr>
+<td valign="middle"><a href="assets/activities/cnn-classification.png"><img src="assets/activities/cnn-classification.png" width="152" alt="CNN 앙상블 제출 정확도와 모델별 파라미터 수"></a></td>
+<td valign="middle">
+<p><strong>CNN Image Classification</strong> · <code>2025.11–2025.12</code></p>
+<ul>
+<li>Python·PyTorch 기반 <strong>Tiny-ImageNet 200개 클래스</strong> 학습·검증 파이프라인 구축</li>
+<li><strong>MobileNetV2·ConvMixer</strong>를 개별 학습하고 로짓 평균으로 앙상블 추론</li>
+<li>파라미터 <strong>946,412개</strong>로 분류 정확도 <strong>48.34% → 57.80%</strong> 달성</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="middle"><a href="assets/activities/ajou-refresh.png"><img src="assets/activities/ajou-refresh.png" width="152" alt="두 이미지 마커 위에 동상과 50주년 기념관을 렌더링한 AR 화면"></a></td>
+<td valign="middle">
+<p><strong>아주고침</strong> · <code>2024.09–2024.12</code></p>
+<ul>
+<li>Unreal Engine 5 Blueprint 기반 <strong>아주대 50주년 기념관</strong> 체험 AR 앱 개발</li>
+<li><strong>다중 이미지 마커</strong> 동시 인식 및 마커별 3D 모델 렌더링</li>
+<li>현실 시간에 따른 <strong>모델 조명 제어</strong> 및 Android 패키징</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="middle"><a href="assets/activities/pest-runner.png"><img src="assets/activities/pest-runner.png" width="152" alt="야외에서 휴대전화로 Pest Runner를 실행하는 장면과 AR 게임 화면"></a></td>
+<td valign="middle">
+<p><strong>Pest Runner</strong> · <code>2024.09–2025.03</code></p>
+<ul>
+<li>Unity 6·C# 기반 AR 러닝 게임에서 시선 방향에 따라 벌레를 후방 배치하고 <strong>일정 지연 후 추격</strong> 구현</li>
+<li><strong>목표 도달 시 메달 보상</strong> 제공 및 목표별 획득 기록을 <code>PlayerPrefs</code>에 저장</li>
+</ul>
+<p><a href="https://github.com/HyunmoSeomoon/MetaverseProgramming">소스 코드</a> · <a href="https://www.youtube.com/watch?v=OymOsehbLD4">플레이 영상</a></p>
+</td>
+</tr>
+<tr>
+<td valign="middle"><a href="assets/activities/amhaeng-eoseu.png"><img src="assets/activities/amhaeng-eoseu.png" width="152" alt="게임 시작과 튜토리얼 버튼이 표시된 암행어스 타이틀 화면"></a></td>
+<td valign="middle">
+<p><strong>암행어스</strong> · <code>2024.09–2025.03</code></p>
+<ul>
+<li><strong>2인 팀</strong>을 이끌어 Roblox Studio 기반 멀티플레이어 추리 게임 개발</li>
+<li><strong>게임 핵심 시스템</strong> 기획 및 구현</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=EjuERCUc3lM">플레이 영상</a></p>
+</td>
+</tr>
+<tr>
+<td valign="middle"><a href="assets/activities/python-data-analysis-tutoring.png"><img src="assets/activities/python-data-analysis-tutoring.png" width="152" alt="고등학생 대상 Python 데이터 분석 교육 현장"></a></td>
+<td valign="middle">
+<p><strong>Python 데이터 분석 교육 튜터</strong> · <code>2024.05</code></p>
+<ul>
+<li>고등학생 대상 <strong>Pandas·Matplotlib</strong> 강의 및 자료 제작·공유</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="middle"><a href="assets/activities/u-change-fair-mentor.png"><img src="assets/activities/u-change-fair-mentor.png" width="152" alt="2025 U-CHANGE FAIR 디지털미디어학과 전공 멘토 명찰"></a></td>
+<td valign="middle">
+<p><strong>U-CHANGE FAIR 전공 멘토</strong> · <code>2025.04</code></p>
+<ul>
+<li>디지털미디어학과 교육과정 소개 및 저학년 <strong>전공·진로 상담</strong></li>
+</ul>
+</td>
+</tr>
+</table>
 
 ## Technical Stacks
 
