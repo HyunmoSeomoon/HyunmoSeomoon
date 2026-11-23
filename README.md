@@ -1,8 +1,8 @@
-# 서문현모 | Software Engineer
+# 서문현모 | Graphics Software Engineer<br><img src="assets/profile-subtitle.svg" width="340" height="22" alt="Specializing in Rendering &amp; Image Processing">
 
 ## Personal Information
 
-<img src="assets/profile-information.png" width="100%" alt="서문현모 프로필 사진. Email: smhm33321@gmail.com / Phone: 010-6669-8912 / Education: 아주대학교 / GPA: 3.83/4.5 (백분위 93.3) / Major: 디지털미디어학과 / Double Major: 소프트웨어학과">
+<img src="assets/profile-information.png" width="100%" alt="서문현모 프로필 사진. Email: smhm33321@gmail.com / Phone: 010-6669-8912 / Education: 아주대학교 / GPA: 3.83/4.5 (백분위 93.3) / Major: 디지털미디어학과 / Double Major: 소프트웨어학과 / Core Technical Skills: C++, OpenGL, OpenCV, GLSL/HLSL">
 
 <img src="assets/focus-areas.svg" width="100%" alt="Visual Computing · Game Interactive">
 
@@ -10,9 +10,9 @@
 <a href="#work-experience"><img src="assets/navigation/work-experience.svg" width="14.259%" alt="Work experience"></a>
 <a href="#projects-visual-computing"><img src="assets/navigation/projects-visual-computing.svg" width="22.037%" alt="Projects (Visual Computing)"></a>
 <a href="#projects-game-interactive"><img src="assets/navigation/projects-game-interactive.svg" width="21.604%" alt="Projects (Game Interactive)"></a>
-<a href="#course-work"><img src="assets/navigation/course-work.svg" width="11.234%" alt="Course work"></a>
-<a href="#technical-stacks"><img src="assets/navigation/technical-stacks.svg" width="14.115%" alt="Technical Stacks"></a>
 <a href="#other-activities"><img src="assets/navigation/other-activities.svg" width="13.251%" alt="Other Activities"></a>
+<a href="#technical-stacks"><img src="assets/navigation/technical-stacks.svg" width="14.115%" alt="Technical Stacks"></a>
+<a href="#course-work"><img src="assets/navigation/course-work.svg" width="11.234%" alt="Course work"></a>
 </p>
 
 ## Work experience
@@ -134,6 +134,25 @@
 <br clear="all">
 </div>
 
+## Other Activities
+
+- **암행어스** · 2인 교과 프로젝트 팀장 · Roblox Studio 기반 멀티플레이어 추리 게임 기획 및 개발
+- **Pest Runner** · 2인 교과 프로젝트 팀장 · Unity 6 기반 AR 러닝 게임의 벌레 생성·추적 및 메달 지급·저장 구현
+- **CNN Image Classification** · 경량 CNN 앙상블 학습·추론으로 분류 정확도 **48.34% → 57.80%**
+- **아주고침** · Unreal Engine 5 기반 이미지 마커 인식, 다중 이미지 AR 렌더링 및 Android 패키징
+- **Python 데이터 분석 교육 튜터** · 2024.05 · 고등학생 대상 Pandas·Matplotlib 강의 및 자료 제작·공유
+- **U-CHANGE FAIR 전공 멘토** · 2025.04 · 디지털미디어학과 교육과정 소개 및 저학년 전공·진로 상담
+
+## Technical Stacks
+
+| 구분 | 프로젝트에서 사용한 기술 |
+| --- | --- |
+| 언어 | C++ · C# · Python · C · GLSL · HLSL |
+| 렌더링·영상처리 | OpenGL · OpenCV · Dear ImGui |
+| 게임·실감 콘텐츠 | Unity 6 · URP · Cinemachine · NavMeshAgent · Unreal Engine 5 Blueprint |
+| 기계학습·데이터 | PyTorch · torchvision · scikit-learn · LightGBM · NumPy · pandas · Matplotlib · Google Colab |
+| 개발·협업 | Git · GitHub · Slack · Notion · Claude Code |
+
 ## Course work
 
 수업에서 직접 구현하거나 실험한 내용을 중심으로 정리했습니다.
@@ -146,22 +165,3 @@
 | 기계학습 | 기계학습 | 분류·회귀 모델 비교, PyTorch 학습·평가 루프, MobileNet 기반 모델·ConvMixer 구성, 데이터 증강·앙상블 추론 |
 | 게임·인터랙션 | 게임엔진프로그래밍 · 메타버스프로그래밍 | Unity 게임 제작, 적 감지·행동 제어, AR·상호작용 콘텐츠 제작 |
 | 컴퓨터과학 기초 | 자료구조 · 알고리즘 · 운영체제 · 컴퓨터구조 · 컴퓨터네트워크 · 선형대수 | 자료구조·알고리즘, 시스템·네트워크, 그래픽스와 학습 모델의 수학적 기반 학습 |
-
-## Technical Stacks
-
-| 구분 | 프로젝트에서 사용한 기술 |
-| --- | --- |
-| 언어 | C++ · C# · Python · C · GLSL · HLSL |
-| 렌더링·영상처리 | OpenGL · OpenCV · Dear ImGui |
-| 게임·실감 콘텐츠 | Unity 6 · URP · Cinemachine · NavMeshAgent · Unreal Engine 5 Blueprint |
-| 기계학습·데이터 | PyTorch · torchvision · scikit-learn · LightGBM · NumPy · pandas · Matplotlib · Google Colab |
-| 개발·협업 | Git · GitHub · Slack · Notion · Claude Code |
-
-## Other Activities
-
-- **암행어스** · 2인 교과 프로젝트 팀장 · Roblox Studio 기반 멀티플레이어 추리 게임 기획 및 개발
-- **Pest Runner** · 2인 교과 프로젝트 팀장 · Unity 6 기반 AR 러닝 게임의 벌레 생성·추적 및 메달 지급·저장 구현
-- **CNN Image Classification** · 경량 CNN 앙상블 학습·추론으로 분류 정확도 **48.34% → 57.80%**
-- **아주고침** · Unreal Engine 5 기반 이미지 마커 인식, 다중 이미지 AR 렌더링 및 Android 패키징
-- **Python 데이터 분석 교육 튜터** · 2024.05 · 고등학생 대상 Pandas·Matplotlib 강의 및 자료 제작·공유
-- **U-CHANGE FAIR 전공 멘토** · 2025.04 · 디지털미디어학과 교육과정 소개 및 저학년 전공·진로 상담
