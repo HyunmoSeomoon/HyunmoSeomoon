@@ -7,13 +7,12 @@
 <img src="assets/focus-areas.svg" width="100%" alt="Visual Computing · Game Interactive">
 
 <p>
-<a href="#work-experience"><img src="assets/navigation/work-experience.svg" width="13.886%" alt="Work experience"></a>
-<a href="#projects-visual-computing"><img src="assets/navigation/projects-visual-computing.svg" width="21.46%" alt="Projects (Visual Computing)"></a>
-<a href="#projects-game-interactive"><img src="assets/navigation/projects-game-interactive.svg" width="21.039%" alt="Projects (Game Interactive)"></a>
-<a href="#activities"><img src="assets/navigation/activities.svg" width="8.416%" alt="Activities"></a>
-<a href="#course-work"><img src="assets/navigation/course-work.svg" width="10.94%" alt="Course work"></a>
-<a href="#technical-stacks"><img src="assets/navigation/technical-stacks.svg" width="13.746%" alt="Technical Stacks"></a>
-<a href="#others"><img src="assets/navigation/others.svg" width="7.013%" alt="Others"></a>
+<a href="#work-experience"><img src="assets/navigation/work-experience.svg" width="14.259%" alt="Work experience"></a>
+<a href="#projects-visual-computing"><img src="assets/navigation/projects-visual-computing.svg" width="22.037%" alt="Projects (Visual Computing)"></a>
+<a href="#projects-game-interactive"><img src="assets/navigation/projects-game-interactive.svg" width="21.604%" alt="Projects (Game Interactive)"></a>
+<a href="#course-work"><img src="assets/navigation/course-work.svg" width="11.234%" alt="Course work"></a>
+<a href="#technical-stacks"><img src="assets/navigation/technical-stacks.svg" width="14.115%" alt="Technical Stacks"></a>
+<a href="#other-activities"><img src="assets/navigation/other-activities.svg" width="13.251%" alt="Other Activities"></a>
 </p>
 
 ## Work experience
@@ -118,50 +117,22 @@
 <table align="left">
 <tr>
 <td colspan="2">
-<picture>
-<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
-<source srcset="assets/project-grid-rule.svg 1x">
-<img src="assets/project-grid-rule.svg" alt="">
-</picture>
-<p><strong>암행어스</strong></p>
-<p><code>Roblox Studio</code></p>
+<a href="https://github.com/HyunmoSeomoon/operate-TML"><picture>
+<source media="(width &lt; 1280px)" srcset="assets/projects/tml.png 1440w">
+<source srcset="assets/projects/tml.png 3.769633508x">
+<img src="assets/projects/tml.png" alt="아주대학교 게임 제작 소학회 TML 로고">
+</picture></a>
+<p><strong><a href="https://github.com/HyunmoSeomoon/operate-TML">교내 게임 개발 소학회 TML 운영</a></strong></p>
+<p><code>Unity 6</code> <code>C#</code> <code>Codex</code></p>
 </td>
 </tr>
-<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Coursework</td></tr>
-<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">2</td></tr>
-<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Team Lead /<br>Game Designer / Developer</td></tr>
-<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">멀티플레이어 추리 게임 제작</td></tr>
-</table>
-<table align="right">
-<tr>
-<td colspan="2">
-<picture>
-<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
-<source srcset="assets/project-grid-rule.svg 1x">
-<img src="assets/project-grid-rule.svg" alt="">
-</picture>
-<p><strong>Pest Runner</strong></p>
-<p><code>Unity 6</code> <code>AR</code></p>
-</td>
-</tr>
-<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Coursework</td></tr>
-<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">2</td></tr>
-<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Team Lead /<br>Game Designer / Developer</td></tr>
-<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">AR 벌레 생성·추적 및<br>메달 보상·저장</td></tr>
+<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Club</td></tr>
+<tr><th align="left" scope="row" valign="top">Impact</th><td valign="top">부스 참여 <strong>207명</strong> · 회원 <strong>28 → 69명</strong></td></tr>
+<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Club President</td></tr>
+<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">소학회 운영, Unity 6 스터디 기획·강의,<br>게임 및 운영 보조 도구 제작</td></tr>
 </table>
 <br clear="all">
 </div>
-
-## Activities
-
-- **게임 개발 소학회 TML 회장** · 2025.03 - 2026.02  
-  소학회 운영, 게임 제작 활동과 홍보 콘텐츠 기획·개발, Unity 6 스터디를 진행했습니다.
-- **Unity 6 스터디 운영·강의** · 2025  
-  강의·과제·튜토리얼 FPS를 제작하고 채점을 진행했습니다. 수강 인원 60명 중 약 47명이 최종 과제를 완료했습니다.
-- **Python 데이터 분석 교육 튜터** · 2024.05  
-  고등학생 대상 Pandas·Matplotlib 강의자료를 제작하고 수업을 진행했습니다. 자료는 동아리에 기증해 재사용할 수 있도록 했습니다.
-- **U-CHANGE FAIR 전공 멘토** · 2025.04  
-  학과 트랙·교육과정을 소개하고 저학년 학생의 전공·진로 상담을 진행했습니다.
 
 ## Course work
 
@@ -186,80 +157,11 @@
 | 기계학습·데이터 | PyTorch · torchvision · scikit-learn · LightGBM · NumPy · pandas · Matplotlib · Google Colab |
 | 개발·협업 | Git · GitHub · Slack · Notion · Claude Code |
 
-## Others
+## Other Activities
 
-<div>
-<table align="left">
-<tr>
-<td colspan="2">
-<picture>
-<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
-<source srcset="assets/project-grid-rule.svg 1x">
-<img src="assets/project-grid-rule.svg" alt="">
-</picture>
-<p><strong>CNN Image Classification</strong></p>
-<p><code>Python</code> <code>PyTorch</code></p>
-</td>
-</tr>
-<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Personal</td></tr>
-<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">1</td></tr>
-<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">ML Developer</td></tr>
-<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">경량 CNN 학습 및 앙상블 추론</td></tr>
-</table>
-<table align="right">
-<tr>
-<td colspan="2">
-<picture>
-<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
-<source srcset="assets/project-grid-rule.svg 1x">
-<img src="assets/project-grid-rule.svg" alt="">
-</picture>
-<p><strong>아주고침</strong></p>
-<p><code>Unreal Engine 5</code> <code>Blueprint</code> <code>Android</code></p>
-</td>
-</tr>
-<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Personal</td></tr>
-<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">2</td></tr>
-<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Team Lead / AR Developer</td></tr>
-<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">이미지 마커 기반 AR 렌더링</td></tr>
-</table>
-<br clear="all">
-</div>
-
-<div>
-<table align="left">
-<tr>
-<td colspan="2">
-<picture>
-<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
-<source srcset="assets/project-grid-rule.svg 1x">
-<img src="assets/project-grid-rule.svg" alt="">
-</picture>
-<p><strong>TML Shooter</strong></p>
-<p><code>Unity 6</code> <code>C#</code></p>
-</td>
-</tr>
-<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Personal</td></tr>
-<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">1</td></tr>
-<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Gameplay Programmer</td></tr>
-<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">FPS 사격·적 행동 구현</td></tr>
-</table>
-<table align="right">
-<tr>
-<td colspan="2">
-<picture>
-<source media="(width &lt; 1280px)" srcset="assets/project-grid-rule.svg 382w">
-<source srcset="assets/project-grid-rule.svg 1x">
-<img src="assets/project-grid-rule.svg" alt="">
-</picture>
-<p><strong>말리지마</strong></p>
-<p><code>Unity 6</code> <code>Git</code></p>
-</td>
-</tr>
-<tr><th align="left" scope="row" valign="top">Type</th><td valign="top">Club</td></tr>
-<tr><th align="left" scope="row" valign="top">Member</th><td valign="top">2</td></tr>
-<tr><th align="left" scope="row" valign="top">Position</th><td valign="top">Game Designer</td></tr>
-<tr><th align="left" scope="row" valign="top">Core Work</th><td valign="top">가상 경마 기획· 시뮬레이션 설계</td></tr>
-</table>
-<br clear="all">
-</div>
+- **암행어스** · 2인 교과 프로젝트 팀장 · Roblox Studio 기반 멀티플레이어 추리 게임 기획 및 개발
+- **Pest Runner** · 2인 교과 프로젝트 팀장 · Unity 6 기반 AR 러닝 게임의 벌레 생성·추적 및 메달 지급·저장 구현
+- **CNN Image Classification** · 경량 CNN 앙상블 학습·추론으로 분류 정확도 **48.34% → 57.80%**
+- **아주고침** · Unreal Engine 5 기반 이미지 마커 인식, 다중 이미지 AR 렌더링 및 Android 패키징
+- **Python 데이터 분석 교육 튜터** · 2024.05 · 고등학생 대상 Pandas·Matplotlib 강의 및 자료 제작·공유
+- **U-CHANGE FAIR 전공 멘토** · 2025.04 · 디지털미디어학과 교육과정 소개 및 저학년 전공·진로 상담
